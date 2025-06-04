@@ -12,7 +12,7 @@ The analysis was implemented in Python using **TensorFlow**, **Keras**, and **Ma
 <pre>/food-image-classification/
 │
 ├── data/
-│ └── train/ and test/ subfolders with images from 3 food categories
+│ └── tacos_breakfast_burrito_ravioli_10_percent zipfile with images from 3 food categories
 │
 ├── notebooks/
 │ └── food-image-classification.ipynb # Full workflow with preprocessing, model training, and evaluation </pre>
